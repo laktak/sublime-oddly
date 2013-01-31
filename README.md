@@ -8,8 +8,8 @@ Installation
 
 With [Package Control](http://wbond.net/sublime_packages/package_control):
 
-1. Run the "Package Control: Install Package" command, find and install Oddly plugin.
-2. Restart ST2 editor (if required)
+1. Run the "Package Control: Install Package" command, find and install the Oddly plugin.
+2. Restart Sublime (if required)
 
 OR:
 
@@ -23,5 +23,5 @@ OR:
 Commands
 --------
 
-+ `oddly` <kbd>alt+shift+,</kbd>: splits your selection into lines where only every 2nd/3rd/.. line is added.
++ `oddly` <kbd>alt+shift+o</kbd>: splits your selection into lines where only every 2nd/3rd/.. line is added.
 
