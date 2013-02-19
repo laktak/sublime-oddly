@@ -1,6 +1,8 @@
 Sublime Oddly
 ==================
 
+A plugin for Sublime Text 2 (http://www.sublimetext.com):
+
 Adds a command to split your selection into lines where only every 2nd/3rd/.. line is added.
 
 Installation
