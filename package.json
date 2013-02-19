@@ -1,7 +1,0 @@
-{
-  "repo": "sublime-oddly",
-  "name": "Oddly",
-  "description": "Adds a command to split your selection into lines where only every 2nd/3rd/.. line is added.",
-  "author": "Christian Zangl (viyano)",
-  "homepage": "https://github.com/viyano/sublime-oddly"
-}
