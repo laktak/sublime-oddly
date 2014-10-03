@@ -1,7 +1,7 @@
 Sublime Oddly
 ==================
 
-A plugin for Sublime Text 2 (http://www.sublimetext.com):
+A plugin for Sublime Text 2 / 3 (http://www.sublimetext.com):
 
 Adds a command to split your selection into lines where only every 2nd/3rd/.. line is added.
 
@@ -15,7 +15,7 @@ With [Package Control](http://wbond.net/sublime_packages/package_control):
 
 OR:
 
-1. Open the Sublime Text 2 Packages folder
+1. Open the Sublime Text 2/3 Packages folder
     - OS X: `~/Library/Application Support/Sublime Text 2/Packages/`
     - Windows: `%APPDATA%/Sublime Text 2/Packages/`
     - Linux: `~/.Sublime Text 2/Packages/`
